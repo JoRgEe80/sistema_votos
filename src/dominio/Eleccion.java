@@ -70,12 +70,10 @@ public class Eleccion {
     }
 
     public Candidato[] getCandidatos() {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'getCandidatos'");
     }
 
     public ArrayList<Candidato> getPapeletas() {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'getPapeletas'");
     }
     
